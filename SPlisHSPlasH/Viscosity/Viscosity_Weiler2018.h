@@ -8,6 +8,8 @@
 
 #define USE_BLOCKDIAGONAL_PRECONDITIONER
 
+// just checking branch health
+
 namespace SPH
 {
 	/** \brief This class implements the implicit Laplace viscosity method introduced 
